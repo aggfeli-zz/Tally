@@ -1,0 +1,100 @@
+Petro 1001 1
+Camp 1008 1
+Petro 1007 1
+Camp 1007 1
+Petro 1007 1
+Camp 1008 1
+Camp 1008 1
+Woodard 1002 1
+Wong 1009 1
+Wong 1005 1
+Camp 1008 1
+ -  1008 1
+Camp 1008 0
+Camp 1008 1
+Camp 1007 1
+Camp 1006 1
+Woodard 1008 1
+Camp 1007 1
+Petro 1008 1
+Camp 1003 1
+Roussos 1002 1
+Woodard 1008 1
+Camp 1001 0
+Petro 1001 1
+Petro 1003 0
+Roussos 1009 1
+Roussos 1007 1
+Camp 1004 1
+Wong 1008 1
+Camp 1008 1
+Camp 1000 1
+Woodard 1001 1
+Petro 1001 1
+Petro 1008 1
+ -  1008 1
+Camp 1008 1
+Camp 1008 1
+Camp 1008 1
+Camp 1008 1
+Camp 1009 1
+Camp 1000 1
+Roussos 1009 1
+ -  1007 1
+Woodard 1008 1
+Roussos 1008 0
+Petro 1009 1
+ -  1008 1
+Camp 1001 1
+Camp 1001 1
+Roussos 1001 1
+Camp 1008 1
+Petro 1003 1
+Roussos 1006 1
+Petro 1008 0
+Camp 1008 1
+Roussos 1009 0
+Wong 1003 1
+Camp 1002 1
+Camp 1004 1
+Roussos 1008 1
+Roussos 1006 1
+Woodard 1001 1
+ -  1007 1
+Wong 1003 1
+Camp 1008 1
+Woodard 1008 1
+Petro 1009 1
+Petro 1007 1
+Roussos 1002 1
+Camp 1000 1
+Camp 1008 1
+ -  1008 1
+Roussos 1008 1
+Camp 1008 1
+Woodard 1008 1
+Woodard 1000 1
+Camp 1002 1
+Camp 1001 1
+Camp 1007 1
+ -  1008 1
+Camp 1008 1
+Camp 1009 1
+Woodard 1008 1
+ -  1008 1
+Woodard 1008 1
+Petro 1008 1
+Camp 1009 1
+Camp 1008 1
+Camp 1008 1
+ -  1007 0
+Roussos 1005 1
+Camp 1008 1
+Camp 1009 1
+Camp 1007 1
+Camp 1004 1
+Roussos 1008 1
+Camp 1007 1
+Camp 1008 1
+Camp 1007 1
+Wong 1007 1
